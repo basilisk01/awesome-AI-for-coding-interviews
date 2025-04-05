@@ -9,12 +9,12 @@ Unless you want to grind on leetcode practice problems for months, just use AI..
 - don't try to type questions into ChatGPT, as it'll take too long, the interviewer will hear you typing (but wonder what website you're typing into, as they won't see it), you won't have time to setup a proper prompt.  They'll get suspicious/fail you.
 - don't try to copy and paste the question into Github Copilot, as almost all interview platforms are collaborative and will show your interviewer what text you're highlighting and copying.  Immediate red flag.
 - do not click on any other Chrome tab or window once your interview starts, as some platforms like Coderpad will display a notification saying that you've left the interview tab.  You can try to say it was a mistake, but it shouldn't happen again.
-- do not use multiple monitors, as some platforms like Hackerrank will ask for permission to manage your windows, and try to [https://customersupport.hackerrank.com/hc/en-us/articles/17793999314963-Multiple-Monitor-Detection]detect if you're using multiple monitors
+- do not use multiple monitors, as some platforms like Hackerrank will ask for permission to manage your windows, and try to [detect](https://customersupport.hackerrank.com/hc/en-us/articles/17793999314963-Multiple-Monitor-Detection) if you're using multiple monitors
 
 ## Tools that can help
-- [Chatmagic] (https://www.chatmagic.app) - Chrome extension that generates code solutions to interview questions you screenshot using a keyboard shortcut.  Free to try, then $49/month.  Also works for system design interviews
-- [Interviewcoder] (https://interviewcoder.co/) - Desktop app to get solutions to coding questions in interviews.  $60/month
-- [Leetcodewizard] (https://leetcodewizard.io/pricing) - Desktop app to get solutions to interview questions.  $49/month
+- [Chatmagic](https://www.chatmagic.app) - Chrome extension that generates code solutions to interview questions you screenshot using a keyboard shortcut.  Free to try, then $49/month.  Also works for system design interviews
+- [Interviewcoder](https://interviewcoder.co/) - Desktop app to get solutions to coding questions in interviews.  $60/month
+- [Leetcodewizard](https://leetcodewizard.io/pricing) - Desktop app to get solutions to interview questions.  $49/month
 
 ## Tips
 - Get a single large monitor, and keep two Chrome windows side-by-side (one with the interview, one with your AI tool)

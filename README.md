@@ -17,7 +17,7 @@ Unless you want to grind on leetcode practice problems for months, just use AI..
 - [Leetcodewizard](https://leetcodewizard.io/pricing) - Desktop app to get solutions to interview questions.  $49/month
 
 ## Tips ✨
-- Get a single large monitor, and keep two Chrome windows side-by-side (one with the interview, one with your AI tool)
+- Get a single large monitor, and keep two windows side-by-side (one with the interview, one with your AI tool)
 - screenshot the question instead of trying to copy/paste or type it into the AI
 - while you wait for the answer, try asking clarifying questions about input data validation, edge cases, etc.
 - You still need to know CS fundamentals, in case you get asked to explain why you did things a certain way, or how to further optimize things.
